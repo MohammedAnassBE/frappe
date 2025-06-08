@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2025-05-18 09:33+0000\n"
-"PO-Revision-Date: 2025-06-01 11:25\n"
+"PO-Revision-Date: 2025-06-08 13:03\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -12579,7 +12579,7 @@ msgstr "که در"
 #. 'System Settings'
 #: frappe/core/doctype/system_settings/system_settings.json
 msgid "In Days"
-msgstr "در روزهای"
+msgstr "بر حسب روز"
 
 #. Label of the in_filter (Check) field in DocType 'DocField'
 #. Label of the in_filter (Check) field in DocType 'Customize Form Field'
