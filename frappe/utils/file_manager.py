@@ -208,12 +208,8 @@ def save_file_on_filesystem(fname, content, content_type=None, is_private=0):
 
 	return {"file_name": os.path.basename(fpath), "file_url": file_url}
 
-
-def get_max_file_size():
-	return conf.get("max_file_size") or 10485760
-
-
 def check_max_file_size(content):
+	from frappe.core.api.file import get_max_file_size
 	max_file_size = get_max_file_size()
 	file_size = len(content)
 
