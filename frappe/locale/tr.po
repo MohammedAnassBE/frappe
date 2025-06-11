@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2025-03-20 13:58+0000\n"
-"PO-Revision-Date: 2025-06-05 06:23\n"
+"PO-Revision-Date: 2025-06-11 08:10\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Turkish\n"
 "MIME-Version: 1.0\n"
@@ -29239,7 +29239,7 @@ msgstr "Bu sayfaya erişim yetkiniz bulunmamaktadır."
 
 #: frappe/__init__.py:859
 msgid "You are not permitted to access this resource."
-msgstr "Bu kaynağa erişim izniniz bulunmamaktadır."
+msgstr ""
 
 #: frappe/public/js/frappe/form/sidebar/document_follow.js:131
 msgid "You are now following this document. You will receive daily updates via email. You can change this in User Settings."
